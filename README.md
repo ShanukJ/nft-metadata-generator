@@ -16,7 +16,7 @@ npm install
 node index.js
 ```
 
-Add your attributes into the attributes.json file. You can add attributes for every image. Thanks, [@Granjalf](https://github.com/Granjalf) for adding this feature.
+Add your attributes into the attributes.json file. You can add attributes for every image. Thanks, [@DavGiac](https://github.com/DavGiac) for adding this feature.
 
 If you want to generate unrevealed metadata for a collection, you can remove the dynamic URL of the image and replace it with an unrevealed image URL.
 
