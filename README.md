@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to NFT metadata generatot 👋</h1>
+<h1 align="center">Welcome to NFT metadata generator 👋</h1>
 <p>
 </p>
 
