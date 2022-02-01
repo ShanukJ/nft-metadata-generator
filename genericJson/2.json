@@ -1,5 +1,16 @@
 {
-  "name": "Your collection name #2",
-  "description": "Your collection description",
-  "image": "ipfs://your_cid/2.png"
+  "name": "Replace with Your collection name #2",
+  "description": "Replace with Your collection description",
+  "image": "ipfs://your_cid/2.png",
+  "edition": 2,
+  "attributes": [
+    {
+      "trait_type": "trait 1 of image 2",
+      "value": "value 1 of image 2"
+    },
+    {
+      "trait_type": "trait 2 of image 2",
+      "value": "value 2 of image 2"
+    }
+  ]
 }

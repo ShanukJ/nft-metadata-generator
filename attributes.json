@@ -1,0 +1,53 @@
+[
+  [
+    {
+      "trait_type": "trait 1 of image 1",
+      "value": "value 1 of image 1"
+    },
+    {
+      "trait_type": "trait 2 of image 1",
+      "value": "value 2 of image 1"
+    }
+  ],
+  [
+    {
+      "trait_type": "trait 1 of image 2",
+      "value": "value 1 of image 2"
+    },
+    {
+      "trait_type": "trait 2 of image 2",
+      "value": "value 2 of image 2"
+    }
+  ],
+  [
+    {
+      "trait_type": "trait 1 of image 3",
+      "value": "value 1 of image 3"
+    },
+    {
+      "trait_type": "trait 2 of image 3",
+      "value": "value 2 of image 3"
+    }
+  ],
+  [
+    {
+      "trait_type": "trait 1 of image 4",
+      "value": "value 1 of image 4"
+    },
+    {
+      "trait_type": "trait 2 of image 4",
+      "value": "value 2 of image 4"
+    }
+  ],
+  [
+    {
+      "trait_type": "trait 1 of image 5",
+      "value": "value 1 of image 5"
+    },
+    {
+      "trait_type": "trait 2 of image 5",
+      "value": "value 2 of image 5"
+    }
+  ]
+  
+]
